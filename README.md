@@ -1,0 +1,2 @@
+# HolocureTrainer
+HolocureTrainer by FukaokaChan
